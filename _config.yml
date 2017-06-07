@@ -1,0 +1,3 @@
+name: Kristacom-1
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
